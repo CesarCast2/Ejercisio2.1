@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercisio2</string>
+    <string name="titulo_app">Juego Dados</string>
+    <string name="titulo_boton">Lanzar</string>
+</resources>
